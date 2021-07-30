@@ -13,8 +13,8 @@ import base64
 app = FastAPI()
 
 origins = [
-    "http://localhost:3000",
-    "localhost:3000"
+        "http://203.131.208.30:7960",
+    "localhost:7960"
 ]
 
 
